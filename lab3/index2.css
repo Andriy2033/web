@@ -1,0 +1,116 @@
+body {
+    background-color:rgb(253, 252, 252);
+    margin-left: auto;
+    margin-right: auto;
+    height: 1797px;
+    width: 1370px;
+    margin-top: 0;
+    align-content: center;
+}
+.nav {
+    position: relative;
+    bottom: 1750px;
+    left: 714px;
+}
+.a,.b,.c,.d {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.b {
+    margin-left: 50px;
+}
+
+.c {
+    margin-left: 50px;
+}
+
+.d {
+    margin-left: 50px;
+}
+h1 {
+   
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2 {
+    font-weight:;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+.dot {
+   color: #F0454C; 
+}
+.man {
+  
+  height: 1057px;
+  width: 1370px;
+}
+.header {
+   
+    height: 1057px;
+    width: 1370px;
+}
+.objekts {
+    height: 187px;
+    width: 938.7px;
+    margin-top: 50px;
+    margin-left: 218px;
+}
+.objekt {
+    display: inline-block;
+    height: 180px;
+    width: 269px;
+   
+}
+.objekt-1 {
+    margin-left: 51px;
+}
+.otstup {
+    line-height: 140%;
+    margin-bottom: 26px;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'open sans';
+    color: #9AA0AB;
+}
+.gray {
+    color: #9AA0AB;
+}
+.mac_text {
+    height: 406px;
+    width: 900px;
+    margin-top: 53px;
+    margin-left: 218px;
+}
+.mac {
+    height: 406px;
+    width: 424px;
+}
+.text {
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin-left: 485px;
+    top: 1400px;
+}
+.more {
+    margin-top: 35px;
+    font-size: 14px;
+    color: #F0454C;
+}
+.more1 {
+    font-size: 14px;
+    color: #F0454C;
+}
+.black {
+    margin-bottom: 30px;
+}
